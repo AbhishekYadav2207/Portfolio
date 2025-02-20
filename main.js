@@ -3,7 +3,7 @@ const projects = [
     {
         title: 'No projects done yet...',
         description: 'Looking forward to find some effective ideas to build Projects.',
-        //image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=600&q=80',
+        image: 'cross.png',
         tags: []
     }
 ];
