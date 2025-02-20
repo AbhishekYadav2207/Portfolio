@@ -1,22 +1,10 @@
 // Project data
 const projects = [
     {
-        title: 'Predictive Analytics for Stock Market',
-        description: 'Developed a machine learning model using LSTM networks to predict stock market trends with 85% accuracy.',
-        image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=600&q=80',
-        tags: ['Python', 'Machine Learning', 'Deep Learning', 'Time Series Analysis']
-    },
-    {
-        title: 'Customer Segmentation Analysis',
-        description: 'Created a clustering model to segment customers based on purchasing behavior using K-means and hierarchical clustering.',
-        image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80',
-        tags: ['Python', 'Clustering', 'Data Analysis', 'Scikit-learn']
-    },
-    {
-        title: 'Natural Language Processing for Sentiment Analysis',
-        description: 'Built a sentiment analysis model for social media data using BERT and achieved 92% accuracy.',
-        image: 'https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&w=600&q=80',
-        tags: ['NLP', 'Deep Learning', 'Python', 'TensorFlow']
+        title: 'No projeccts done...',
+        description: 'Looking forward to find some effective ideas to build Projects.',
+        //image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=600&q=80',
+        tags: []
     }
 ];
 
